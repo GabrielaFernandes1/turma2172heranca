@@ -55,8 +55,8 @@ public class Funcionario {
     public void setQtdeHora(float qtdeHora) {
         this.qtdeHora = qtdeHora;
     }
+   
         
-        
-        
+    
     
 }
